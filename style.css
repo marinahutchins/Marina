@@ -5,11 +5,14 @@ body
     background-color: olive;
 }
 
+
 .form-row
 
 {
 
 background-color: palegoldenrod;
+
+/* Contact html formatting */
 
 }
 #inputEmail4
@@ -33,5 +36,15 @@ background-color: palegoldenrod;
 {
 
     background-color: pink;
+
+}
+
+/* Index html formatting */
+
+.card
+
+{
+
+text-align: center;
 
 }
