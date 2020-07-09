@@ -41,10 +41,10 @@ background-color: palegoldenrod;
 
 /* Index html formatting */
 
-.container
+#section
 {
+    
 
-text-align: center;
 
 }
 
@@ -55,15 +55,5 @@ text-align: center;
 
 text-align: center;
 color: purple;
-
-
-}
-
-.card body
-display: inline-block
-
-{
-
-
 
 }
