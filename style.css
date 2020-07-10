@@ -12,9 +12,11 @@ body
 
 background-color: palegoldenrod;
 
+}
+
 /* Contact html formatting */
 
-}
+
 #inputEmail4
 
 {
@@ -52,9 +54,13 @@ color: purple;
 
 /* Portfolio page formatting */
 
-.section
+
+header
 
 {
-margin: 50%;
 
+text-align: center;
+font-size: 100px;
+ color: aqua;   
+ 
 }
