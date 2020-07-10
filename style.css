@@ -47,10 +47,12 @@ background-color: palegoldenrod;
 
 {
 
+    
 text-align: center;
 color: purple;
 
 }
+
 
 /* Portfolio page formatting */
 
@@ -64,3 +66,12 @@ font-size: 100px;
  color: aqua;   
  
 }
+/* Footer formatting */
+
+p
+
+{
+   
+    text-align: center;
+color: purple;
+
