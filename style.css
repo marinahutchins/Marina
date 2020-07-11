@@ -14,6 +14,21 @@ background-color: palegoldenrod;
 
 }
 
+/* paragraph formatting */
+
+p
+
+{
+   
+text-align: center;
+color: purple;
+
+}
+
+
+
+
+
 /* Contact html formatting */
 
 
@@ -66,14 +81,15 @@ font-size: 100px;
  color: aqua;   
  
 }
+
+
 /* Footer formatting */
 
-p
+
+footer
 
 {
-   
-    text-align: center;
-color: purple;
-
+background-color: bisque;
+ 
 
 }
