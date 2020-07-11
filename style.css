@@ -1,20 +1,15 @@
 
 body
-{
- 
-    background-color: olive;
-}
-
-
-.form-row
 
 {
 
-background-color: palegoldenrod;
+background-color: olive;
 
 }
+
 
 /* paragraph formatting */
+
 
 p
 
@@ -26,17 +21,23 @@ color: purple;
 }
 
 
-
-
-
 /* Contact html formatting */
+
+
+.form-row
+
+{
+
+background-color: palegoldenrod;
+
+}
 
 
 #inputEmail4
 
 {
 
-    background-color: pink;
+background-color: pink;
 
 }
 
@@ -44,7 +45,7 @@ color: purple;
 
 {
 
-    background-color: pink;
+background-color: pink;
 
 }
 
@@ -52,16 +53,17 @@ color: purple;
 
 {
 
-    background-color: pink;
+background-color: pink;
 
 }
 
+
 /* Index html formatting */
+
 
 .card
 
 {
-
     
 text-align: center;
 color: purple;
@@ -78,7 +80,7 @@ header
 
 text-align: center;
 font-size: 100px;
- color: aqua;   
+color: aqua;   
  
 }
 
@@ -89,7 +91,7 @@ font-size: 100px;
 footer
 
 {
+
 background-color: bisque;
  
-
 }
